@@ -1,5 +1,6 @@
 ### Hi there 👋
 - 🌱 I’m currently learning distributed ML infra.
+- 📫 How to reach me: hello.chiadai@gmail.com
 <!--
 **chiad/chiad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
